@@ -9,27 +9,27 @@ To generate a new words, use the main script giving the name of a word list file
 
 ### Example Output
 ```
-$ ./main words_english
-mccasin
-ent
-mate
-placked
-stricklant
-ass
-twohum
-weetirries
-cascap
-cribber
-vour
-norititle
-readachedrops
-socialianshion
-comed
-blurkilbusicial
-equesty
-rydaying
-ste
-hydraultating
+$ ./main words_english 
+plashed
+presentificult
+intreats
+annoyal
+notect
+bonned
+fier
+brimly
+cener
+fired
+uncommunicatefulfishabby
+replished
+shirtysixty
+seen
+aise
+groof
+oriably
+agest
+mone
+shuttonnivant
 ```
 
 ```
